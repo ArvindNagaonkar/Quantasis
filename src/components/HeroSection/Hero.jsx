@@ -1,5 +1,5 @@
 import Logo from "../../assets/imgs/heroImage.svg";
-import AnimatedText from "./animatedText";
+import AnimatedText from "./AnimatedText";
 import Heading from "./Heading";
 import Stats from "./Stats";
 
