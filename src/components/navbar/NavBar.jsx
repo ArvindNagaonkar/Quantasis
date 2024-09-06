@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import NavItem from "./NavItem";
-import SubService from "./subservice";
+import SubService from "./SubService";
 
 export default function NavBar() {
   const [open, setOpen] = useState(false);
